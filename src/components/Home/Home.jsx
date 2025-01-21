@@ -1,6 +1,6 @@
 import React from 'react'
 import '../../styles/Home.css'
-import AstroImg from '../../assets/Hero_section/heroimage.png'
+import AstroImg from '../../assets/Hero_section/fluppyhero.png'
 // import AstroImg from '../../assets/Hero_section/hero_astranaut_.png'
 // import Elipse from '../../assets/Hero_section/orbit_elipse.png'
 function Home() {
