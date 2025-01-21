@@ -25,7 +25,7 @@ function About() {
 
         <div className='gradient_blue'></div>
         <div className='whatisuranus '>
-            <h1 className='goldman_regular'>What is Flully?</h1>
+            <h1 className='goldman_regular'>What is Fluppy?</h1>
             <div className="text_coin">
                 <p>
                 Unveiling the Legit Meme Coin Cosmos! <br />
