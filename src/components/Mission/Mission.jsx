@@ -1,5 +1,5 @@
 import React from 'react'
-import MissionCoin from '../../assets/Mission/MissionCoin.png'
+import MissionCoin from '../../assets/Mission/fluppy.png'
 import '../../styles/Mission.css'
 
 function Mission() {
