@@ -16,7 +16,7 @@ function Navbar() {
             <div className="lgog_box">
                 <img loading='lazy' src={Logo} alt="logopng" />
                 <h3 className="goldman_regular logo">
-                    URANUS
+                    FLUPPY
                 </h3>
             </div>
 			<nav ref={navRef}>

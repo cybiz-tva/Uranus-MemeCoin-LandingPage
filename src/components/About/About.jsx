@@ -25,13 +25,13 @@ function About() {
 
         <div className='gradient_blue'></div>
         <div className='whatisuranus '>
-            <h1 className='goldman_regular'>What is Uranus?</h1>
+            <h1 className='goldman_regular'>What is Flully?</h1>
             <div className="text_coin">
                 <p>
                 Unveiling the Legit Meme Coin Cosmos! <br />
-                    Uranus isn't just another run-of-the-mill cryptocurrency; it's a bona fide meme coin that injects humor and joy into the digital asset space. 
+                    Fluppy isn't just another run-of-the-mill cryptocurrency; it's a bona fide meme coin that injects humor and joy into the digital asset space. 
                     Step into our cosmic community, where laughter is the driving force and exploration knows no bounds. 
-                    Whether you're a crypto connoisseur or just dipping your toes, Uranus welcomes all to join the journey. 
+                    Whether you're a crypto connoisseur or just dipping your toes, Fluppy welcomes all to join the journey. 
                     Embrace the whimsical side of finance and embark on an intergalactic adventure with us!
                 </p>
                 <img src={MemeCoin} loading='lazy' className='memecoin' alt="MemeCoin" />

@@ -20,15 +20,15 @@ function Footer() {
             <div className="lgog_box">
                 <img loading='lazy' src={Logo} alt="logopng" />
                 <h3 className="goldman_regular logo" style={{fontSize:"2.4rem"}} >
-                    URANUS
+                    FLUPPY
                 </h3>
             </div>
             <div className="social_icons">
             
-                <li><a target="_blank" href="https://twitter.com/spreaduranus"><FaXTwitter/></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/inuranusofficial/"><FaFacebookF/></a></li>
-                <li><a target="_blank" href="https://t.me/+d-gyv6DkVWtjYTIx"><FaTelegramPlane/></a></li>
-                <li><a target="_blank" href="https://discord.com/invite/zWWJRHBwZC"><SiDiscord/></a></li>
+                <li><a target="_blank" href=""><FaXTwitter/></a></li>
+                <li><a target="_blank" href=""><FaFacebookF/></a></li>
+                <li><a target="_blank" href=""><FaTelegramPlane/></a></li>
+                <li><a target="_blank" href=""><SiDiscord/></a></li>
 
             </div>
           </div>
@@ -36,16 +36,16 @@ function Footer() {
             <div>
               <h2>Partner</h2>
               <ul>
-                <a target="_blank" href="https://dia.wiki/">Decentralized Intelligence Agency</a>
-                <a target="_blank" href="https://worldvibeweb.org/">World Vide web</a>
-                <a target="_blank" href="https://www.purplerock.xyz/">Purplerock</a>
+                <a target="_blank" href="https://icchatva.com/">Icchatva</a>
+                <a target="_blank" href="">Partner 2</a>
+                <a target="_blank" href="">Partner 3</a>
               </ul>
             </div>
             <div>
               <h2>Resource</h2>
               <ul>
-                <a target="_blank" href="https://www.purplerock.xyz/">Effective Vibes</a>
-                <a target="_blank" href="https://GoldenMeme.org">Golden Meme</a>
+                <a target="_blank" href="">Resource 1</a>
+                <a target="_blank" href="">Resource 2</a>
                 
               </ul>
             </div>
