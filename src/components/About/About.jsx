@@ -5,7 +5,7 @@ import Coinbase from '../../assets/About/coinbase.png'
 import Gate from '../../assets/About/gate.png'
 import Hotbit from '../../assets/About/hotbit.png'
 import Gecko from '../../assets/About/gecko.png'
-import MemeCoin from '../../assets/About/meme_coin.png'
+import MemeCoin from '../../assets/About/meme_coin1.png'
 import Loopers from '../../assets/About/Loopers.png';
 
 function About() {
