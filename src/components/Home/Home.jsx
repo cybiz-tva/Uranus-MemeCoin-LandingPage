@@ -11,7 +11,7 @@ function Home() {
           <h1 className='goldman_regular'>
           Discover the Galactic Potential of Fluppy Coin
           </h1>
-          <p>Uniting laughter, community, and financial empowerment in the crypto universe. With innovative tokenomics and a dedicated team, we're more than a meme – we're your ticket to the stars.</p>
+          <p> FLUPY Layer 2 is an innovative solution designed to transform the Solana network, addressing the challenges of scalability, social inclusion, and cultural impact. It combines cutting-edge technology with an inclusive movement, promoting accessibility, innovation, and community engagement. </p>
           <div className='btn'><span>Buy Now</span></div>
         </div>
         <div className="astro">
