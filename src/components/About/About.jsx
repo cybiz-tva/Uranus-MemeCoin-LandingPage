@@ -28,7 +28,7 @@ function About() {
             <h1 className='goldman_regular'>What is FLUPPY Layer 2</h1>
             <div className="text_coin">
                 <p>
-                Unveiling the Legit Meme Coin Cosmos! <br />
+                Unveiling the potential of FLUPPY COIN <br />
                 FLUPPY Layer 2 is a revolutionary
 scalability solution for the Solana
 blockchain. Our technology
