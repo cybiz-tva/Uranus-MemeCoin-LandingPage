@@ -29,10 +29,28 @@ function About() {
             <div className="text_coin">
                 <p>
                 Unveiling the Legit Meme Coin Cosmos! <br />
-                    Fluppy isn't just another run-of-the-mill cryptocurrency; it's a bona fide meme coin that injects humor and joy into the digital asset space. 
-                    Step into our cosmic community, where laughter is the driving force and exploration knows no bounds. 
-                    Whether you're a crypto connoisseur or just dipping your toes, Fluppy welcomes all to join the journey. 
-                    Embrace the whimsical side of finance and embark on an intergalactic adventure with us!
+                FLUPPY Layer 2 is a revolutionary
+scalability solution for the Solana
+blockchain. Our technology
+combines zk-Rollups and
+Optimistic Rollups, ultra-fast off-
+chain processing, and an
+advanced modular architecture
+to eliminate congestion, reduce
+fees to near zero, and enable
+instant transactions, even in
+times of high demand.  In addition to its extreme
+scalability, FLUPPY Layer 2
+provides full interoperability
+with Ethereum, BNB Chain, and
+Polygon, allowing developers and
+users to move between networks
+seamlessly and frictionlessly.
+Designed to be fast, secure, and
+accessible, FLUPPY redefines the
+blockchain experience and
+expands its potential for
+everyone.
                 </p>
                 <img src={MemeCoin} loading='lazy' className='memecoin' alt="MemeCoin" />
                 <img src={Loopers} loading='lazy' alt="" className="loopers" />

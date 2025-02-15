@@ -9,7 +9,7 @@ function Home() {
     <section className='hero_section' id='home' >
         <div className="heading">
           <h1 className='goldman_regular'>
-          Discover the Galactic Potential of Fluppy Meme Coin
+          Discover the Galactic Potential of Fluppy Coin
           </h1>
           <p>Uniting laughter, community, and financial empowerment in the crypto universe. With innovative tokenomics and a dedicated team, we're more than a meme – we're your ticket to the stars.</p>
           <div className='btn'><span>Buy Now</span></div>
