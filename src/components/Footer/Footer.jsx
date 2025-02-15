@@ -44,8 +44,8 @@ function Footer() {
             <div>
               <h2>Resource</h2>
               <ul>
-                <a target="_blank" href="">Resource 1</a>
-                <a target="_blank" href="">Resource 2</a>
+                <a target="_blank" href="">Privacy Policy</a>
+                <a target="_blank" href="">Terms and conditions</a>
                 
               </ul>
             </div>
