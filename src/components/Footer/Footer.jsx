@@ -7,6 +7,8 @@ import { FaFacebookF } from "react-icons/fa6";
 import { IoLogoReddit } from "react-icons/io5";
 import { SiDiscord } from "react-icons/si";
 import { FaTelegramPlane } from "react-icons/fa";
+import { FaInstagram } from 'react-icons/fa6';
+
 
 
 
@@ -25,10 +27,10 @@ function Footer() {
             </div>
             <div className="social_icons">
             
-                <li><a target="_blank" href=""><FaXTwitter/></a></li>
-                <li><a target="_blank" href=""><FaFacebookF/></a></li>
-                <li><a target="_blank" href=""><FaTelegramPlane/></a></li>
-                <li><a target="_blank" href=""><SiDiscord/></a></li>
+                <li><a target="_blank" href="https://x.com/FLUPPYLAYER2"><FaXTwitter/></a></li>
+                <li><a target="_blank" href="https://www.instagram.com/fluppylayer2/"><FaInstagram/></a></li>
+                <li><a target="_blank" href="https://t.me/+onmnod5YbkU3ZTYx"><FaTelegramPlane/></a></li>
+                <li><a target="_blank" href="https://discord.gg/SA6jZmZFuS"><SiDiscord/></a></li>
 
             </div>
           </div>
